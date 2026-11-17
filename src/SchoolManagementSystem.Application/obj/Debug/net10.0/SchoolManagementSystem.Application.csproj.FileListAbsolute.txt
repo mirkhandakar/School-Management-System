@@ -1,0 +1,16 @@
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Application.deps.json
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Application.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Application.pdb
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Domain.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Domain.pdb
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.csproj.AssemblyReference.cache
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.AssemblyInfoInputs.cache
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.AssemblyInfo.cs
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.sourcelink.json
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolMa.D65F040C.Up2Date
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\refint\SchoolManagementSystem.Application.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.pdb
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Application\obj\Debug\net10.0\ref\SchoolManagementSystem.Application.dll

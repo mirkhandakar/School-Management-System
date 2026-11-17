@@ -1,0 +1,12 @@
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\bin\Debug\net10.0\SchoolManagementSystem.Domain.deps.json
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\bin\Debug\net10.0\SchoolManagementSystem.Domain.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\bin\Debug\net10.0\SchoolManagementSystem.Domain.pdb
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.AssemblyInfo.cs
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.sourcelink.json
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\refint\SchoolManagementSystem.Domain.dll
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.pdb
+D:\DevSkillAspNet\Internship\projects\School-Management-System\src\SchoolManagementSystem.Domain\obj\Debug\net10.0\ref\SchoolManagementSystem.Domain.dll

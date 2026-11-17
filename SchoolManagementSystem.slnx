@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SchoolManagementSystem.Application/SchoolManagementSystem.Application.csproj" />
+    <Project Path="src/SchoolManagementSystem.Domain/SchoolManagementSystem.Domain.csproj" />
+    <Project Path="src/SchoolManagementSystem.Infrastructure/SchoolManagementSystem.Infrastructure.csproj" />
+    <Project Path="src/SchoolManagementSystem.Web/SchoolManagementSystem.Web.csproj" />
+  </Folder>
+</Solution>
